@@ -1,0 +1,11 @@
+/
+#include <iostream>
+
+    using namespace std;
+int main()
+{
+    int zxc;
+    zxc = 1000 zxc -= 7 zxc = zxc - 7;
+    cout << zxc;
+    >>
+}
